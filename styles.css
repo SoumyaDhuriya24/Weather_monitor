@@ -25,3 +25,19 @@ body{
     margin-bottom: 20px;
     background-color: #1a1a1a;
 }
+
+input{
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: #1a1a1a;
+    color: aliceblue;
+}
+
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background-color: #0e6803;
+    color: aliceblue;
+}
