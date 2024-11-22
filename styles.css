@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    padding: 25vh;
+    background-color: #1b1a1a;
+    color: aliceblue;
+}
+
+.container{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #262525;
+}
+
+.input-container{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #1a1a1a;
+}
